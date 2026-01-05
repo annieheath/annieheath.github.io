@@ -1,7 +1,7 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
+title: Annie's Portfolio
+email: <a href="javascript:location='mailto:\u0061\u006e\u006e\u0069\u0065\u002e\u006f\u0072\u006b\u0069\u006e\u002e\u0068\u0065\u0061\u0074\u0068\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u0061\u006e\u006e\u0069\u0065\u002e\u006f\u0072\u006b\u0069\u006e\u002e\u0068\u0065\u0061\u0074\u0068\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d')</script></a>
+url: https://annieheath.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
